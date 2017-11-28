@@ -1,4 +1,4 @@
-5cfbda3e6c53e7232a4895c574f9c199 *DESCRIPTION
+652102d17c83a3e405c0fafd4d42d337 *DESCRIPTION
 40cdf3833de6d6610cb3d1e86dab3d59 *NAMESPACE
 eac7f25c5b32c9dd5795a49b26113877 *R/auto_style.R
 5944fc7bd365c9754c48d595544e4d26 *R/body.R
@@ -13,7 +13,7 @@ d1e3294da9815c7cce8e0b966816f3a7 *R/main.R
 840cd056af13f42b6823b0d54a093c37 *R/top_headers.R
 3fa7c2d46e2f38c5ce9637facc775320 *R/utils.R
 824bacb279fee9e567b6cad2b6b03925 *R/wb.R
-dfa4ad56ef758e5bfec72cba1ac34458 *R/zzz.R
+c88da70b6b5d8a0e99b409e7c878a5f1 *R/zzz.R
 799f02f498fbb946e7252c583ba5a4aa *inst/extdata/example_crosstab.csv
 186bdfba70c40a0dd10d9f7618ca1d5c *inst/extdata/number_format_defaults.csv
 7c1ac3bd40560881754d32ce9c9b467b *inst/extdata/simdata.R
